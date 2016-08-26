@@ -1,2 +1,5 @@
 # my_bootstrap_subtheme
-Example of bootstrap sub theme for Drupal 8
+これはDrupal8版 [Bootstrap Theme](https://www.drupal.org/project/bootstrap)のサブテーマのサンプルです。
+
+## License
+This software is released under the MIT License, see LICENSE.
