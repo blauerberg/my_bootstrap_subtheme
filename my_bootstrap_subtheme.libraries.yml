@@ -1,0 +1,6 @@
+global-styling:
+  css:
+    theme:
+      css/custom_style.css: {}
+  js:
+    js/custom_script.js: {}
